@@ -1,0 +1,1 @@
+{"name":"pi-vision","version":"0.1.0","description":"Vision tool for pi: let any model see images via a vision-capable model","type":"module","main":"index.ts","pi":{"role":"extension"}}
